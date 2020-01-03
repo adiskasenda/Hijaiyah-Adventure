@@ -6,30 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Menu.unity
-    guid: 331df77505b7d6341a48caf747ca9965
-  - enabled: 1
-    path: Assets/Credits.unity
-    guid: 83abc071146443140849d97405c1f7ee
-  - enabled: 1
-    path: Assets/Help.unity
-    guid: 3b2c617dee9f5f54cbacc0fd32b32ded
-  - enabled: 1
-    path: Assets/Kalah.unity
-    guid: db4a1fe68513f8149ac8d76a7aae0b9f
-  - enabled: 1
-    path: Assets/Gamelevel.unity
-    guid: 0fa0afa733d0bda4aad057fcd76f8cf7
-  - enabled: 1
-    path: Assets/Level1.unity
-    guid: 6a3ce4a2bb698ae42915d83bdd967d7a
-  - enabled: 1
-    path: Assets/Level3.unity
-    guid: 891ea529dabfc7743ad26813281f7cae
-  - enabled: 1
-    path: Assets/Level2.unity
-    guid: a9154594159d70c4ab482dd43dd94ae8
-  - enabled: 1
-    path: Assets/finish.unity
-    guid: 4179682dc8015fd408ef56de64656e11
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects: {}
